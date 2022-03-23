@@ -1,11 +1,5 @@
   <h1>Impressum</h1>
 
-        <div class="module-header null">
-
-            <div>
-                <div class="module-header-text">
-
-
                     Informationspflicht laut §5 E-Commerce Gesetz, §14<br><br>
                     Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.<br><br>
                     Lify-Cloud<br>Kruse, Marvin | Hermes, Ben<br>25725 Schafstedt,
@@ -53,13 +47,5 @@
                     Bildernachweis<br><br>
                     Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschützt.<br>
                     Die Bilderrechte liegen bei den folgenden Fotografen und Unternehmen:<br><br>
-                    </ul>
+                    
                     Alle Texte sind urheberrechtlich geschützt.
-                    <nav>
-                    </nav>
-                </div>
-            </div>
-
-
-
-        </div>
